@@ -67,6 +67,29 @@ ul h2{
   font-size: 12px;
 }
 
+@media (max-width:972px) and (min-width:415px) {
+
+  
+  .Inf h1{
+    font-size:18px;
+  }
+
+  .Inf p{
+    font-size:15px;
+    display: flex;
+    width: 440px;
+  }
+
+  ul {
+    display: block;
+    padding-top: 4px;
+  }
+   ul h2{
+    font-size: 10px;
+   }
+  
+}
+
 
 @media (max-width:415px) {
   
